@@ -13,9 +13,8 @@ const Contact = () => {
        <div className='container' style={{textAlign:'center',fontSize:'2rem'}}>
         <p><a href='https://linkedin.com' target="_blank" rel="noreferrer"><AiFillLinkedin />https://www.linkedin.com/in/kvivek371/</a></p>
         <p><a href='https://github.com' target="_blank" rel="noreferrer"><AiOutlineGithub/>https://github.com/kvivek371</a></p>
-        <p><a href='https://gmail.com' target="_blank" rel="noreferrer"
-        ><SiGmail /> kvivek371@gmail.com</a></p>
-        <p><a href='/#' target=""><BsFillPhoneFill /> 7011257496</a></p>
+        <p><a href='https://gmail.com' target="_blank" rel="noreferrer"><SiGmail /> kvivek371@gmail.com</a></p>
+        <a href="tel:701-125-7496" rel="noreferrer"><BsFillPhoneFill /> 7011257496</a>
     </div>
     </section>
   )
