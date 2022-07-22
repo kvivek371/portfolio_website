@@ -15,7 +15,7 @@ const Header = () => {
           Vivek Kumar
         </h1>
         <h5 className='text-light'>
-          MERN Stack Developer
+          Front End Developer
         </h5>
         <CVDown />
         <HeaderScocial />
