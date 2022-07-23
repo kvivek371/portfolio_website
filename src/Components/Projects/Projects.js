@@ -37,7 +37,7 @@ const Projects = () => {
           <p><img style={{width:'100%', height:"15rem"}} src={todo} alt='Digital Clock Project'/></p>
           <p>This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content</p>
           <p style={{display:'flex',justifyContent:'space-between'}}>
-            <span><a href='https://kvivek371.github.io/todoJavaScript/' target="_blank"><FaLink />Demo</a></span>
+            <span><a href='https://todo-app-updted.netlify.app/' target="_blank"><FaLink />Demo</a></span>
             <span><a href='https://github.com/kvivek371/todoJavaScript' target="_blank"><BsGithub />Code</a></span>
           </p>
           <p>HTML, CSS, Java Script</p>
